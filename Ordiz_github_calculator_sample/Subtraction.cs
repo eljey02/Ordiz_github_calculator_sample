@@ -17,7 +17,7 @@ namespace Ordiz_github_calculator_sample
 
 
             
-        }
+ }
 
     }
 }
